@@ -7,10 +7,6 @@
   <a href="mailto:pardhasaradhialapati@zohomail.in">📧 Email</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saradhi0515&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -31,13 +27,12 @@ During my internship at **Infosys Springboard**, I built high-accuracy computer 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -54,21 +49,7 @@ During my internship at **Infosys Springboard**, I built high-accuracy computer 
 | 📊 [**Trader Performance vs Market Sentiment**](https://github.com/Saradhi0515/Trader_Performance_vs_Market_Sentiment) | Data analysis on trading behavior vs market sentiment | Jupyter, Python |
 | 🤖 [**Binance Futures Trading Bot**](https://github.com/Saradhi0515/Binance-Futures-Trading-Bot) | Automated crypto futures trading bot | Python |
 | 🔄 [**n8n Workflow Popularity System**](https://github.com/Saradhi0515/n8n-Workflow-Popularity-System) | Analyzes trends in n8n workflow usage | Python |
-| 👥 [**Employee Shift Board**](https://github.com/Saradhi0515/Employee-Shift-Board) | Shift scheduling & management tool | TypeScript |
-| 💼 [**Personal Portfolio**](https://github.com/Saradhi0515/Personal_Portfolio_Website) | My personal portfolio site | JavaScript |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saradhi0515&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saradhi0515&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saradhi0515&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
+| 💼 [**Personal Portfolio**](https://github.com/Saradhi0515/Personal_Portfolio_Website) | My personal portfolio site | HTML5, CSS3, React.js |
 
 ---
 
